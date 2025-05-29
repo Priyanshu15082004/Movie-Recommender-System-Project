@@ -15,5 +15,5 @@ This **Movie Recommender System** leverages machine learning and data science te
 - **Pickle Model**: Saves the trained recommendation model using `pickle`.
 ## 📷 Dashboard Preview
 
-![Movie Recommender System](Movie.png)
+![Movie Recommender System](movie.png)
 ---
