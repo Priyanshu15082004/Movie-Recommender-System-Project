@@ -13,3 +13,7 @@ This **Movie Recommender System** leverages machine learning and data science te
 - **Natural Language Processing**: Uses `nltk` for text processing in movie descriptions.
 - **Cosine Similarity**: Implements cosine similarity for calculating movie similarities based on features.
 - **Pickle Model**: Saves the trained recommendation model using `pickle`.
+## 📷 Dashboard Preview
+
+![Movie Recommender System](Movie.png)
+---
